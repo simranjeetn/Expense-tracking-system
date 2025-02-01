@@ -65,18 +65,3 @@ The following Python packages are used in this project:
 3. Visualize expense data using the interactive charts and graphs.
 
 
-
-## Contributing
-Contributions are welcome! Feel free to open an issue or submit a pull request.
-
-## License
-This project is licensed under the MIT License. See the `LICENSE` file for details.
-
-## Contact
-For any inquiries or support, please contact:
-**Devang Patel**  
-Email: [devangpatel10505@gmail.com](mailto:your-email@example.com)
-
----
-
-Happy Expense Tracking!
