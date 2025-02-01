@@ -1,6 +1,7 @@
 # Expense Tracking System
 
-An Expense Tracking System is a web application that allows users to manage their personal or business expenses effectively. This project is built using Python and utilizes several powerful packages to ensure a robust and efficient solution.
+An Expense Tracking System is a web application that allows users to manage their personal or business expenses effectively. 
+This project is built using Python and utilizes several powerful packages to ensure a robust and efficient solution.
 
 ## Features
 - User-friendly interface for tracking expenses.
@@ -11,7 +12,7 @@ An Expense Tracking System is a web application that allows users to manage thei
 
 ## Requirements
 Ensure you have the following installed on your system:
-- Python 3.9+
+- Python 3.9 plus
 - MySQL server
 
 ## Installation
