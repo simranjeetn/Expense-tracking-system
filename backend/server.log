@@ -1,0 +1,99 @@
+2025-01-28 09:37:04,018 - db_helper - INFO - fetched expenses summary for date 2024-09-01 to 2024-09-05
+2025-01-28 09:50:45,842 - db_helper - INFO - fetched expenses for date 2024-08-28
+2025-01-28 09:52:15,110 - db_helper - INFO - fetched expenses for date 2024-08-30
+2025-01-28 09:52:21,151 - db_helper - INFO - delete expenses for date 2024-08-30
+2025-01-28 09:52:21,169 - db_helper - INFO - insert expenses for date 2024-08-30 amount 1000.0 category Food notes Dinner
+2025-01-28 09:52:21,193 - db_helper - INFO - insert expenses for date 2024-08-30 amount 500.0 category Transport notes plane
+2025-01-28 09:52:30,327 - db_helper - INFO - fetched expenses for date 2024-08-30
+2025-01-28 10:41:01,913 - db_helper - INFO - fetched expenses for date 2024-08-01
+2025-01-28 11:00:20,926 - db_helper - INFO - fetched expenses for date 2024-08-01
+2025-01-28 11:00:26,994 - db_helper - INFO - fetched expenses for date 2024-08-01
+2025-01-28 11:02:20,899 - db_helper - INFO - fetched expenses for date 2024-08-31
+2025-01-28 11:04:10,170 - db_helper - INFO - fetched expenses for date 2024-08-31
+2025-01-28 11:05:08,542 - db_helper - INFO - fetched expenses for date 2024-08-31
+2025-01-28 11:06:05,933 - db_helper - INFO - fetched expenses for date 2024-08-31
+2025-01-28 11:06:43,758 - db_helper - INFO - fetched expenses for date 2024-08-01
+2025-01-28 11:06:51,504 - db_helper - INFO - fetched expenses for date 2024-08-31
+2025-01-28 11:12:28,206 - db_helper - INFO - fetched expenses for date 2024-08-31
+2025-01-28 11:12:43,670 - db_helper - INFO - fetched expenses for date 2024-08-01
+2025-01-28 11:15:21,644 - db_helper - INFO - fetched expenses for date 2024-08-01
+2025-01-28 11:17:56,674 - db_helper - INFO - fetched expenses for date 2024-08-02
+2025-01-28 11:18:35,657 - db_helper - INFO - fetched expenses for date 2024-08-02
+2025-01-28 11:19:06,156 - db_helper - INFO - fetched expenses for date 2024-08-02
+2025-01-28 11:19:12,696 - db_helper - INFO - fetched expenses for date 2024-08-08
+2025-01-28 11:19:17,913 - db_helper - INFO - fetched expenses for date 2024-08-19
+2025-01-28 11:19:22,503 - db_helper - INFO - fetched expenses for date 2024-08-04
+2025-01-28 11:19:36,044 - db_helper - INFO - fetched expenses for date 2024-08-04
+2025-01-28 11:26:48,042 - db_helper - INFO - fetched expenses for date 2024-08-04
+2025-01-28 11:27:19,868 - db_helper - INFO - fetched expenses for date 2024-08-04
+2025-01-28 11:27:28,972 - db_helper - INFO - fetched expenses for date 2024-08-30
+2025-01-28 11:28:02,643 - db_helper - INFO - fetched expenses for date 2024-08-30
+2025-01-28 11:28:07,768 - db_helper - INFO - fetched expenses for date 2024-08-31
+2025-01-28 11:28:52,695 - db_helper - INFO - fetched expenses for date 2024-08-31
+2025-01-28 11:28:54,790 - db_helper - INFO - delete expenses for date 2024-08-31
+2025-01-28 11:28:54,810 - db_helper - INFO - insert expenses for date 2024-08-31 amount 20.0 category Food notes panipuri
+2025-01-28 11:28:54,858 - db_helper - INFO - insert expenses for date 2024-08-31 amount 100.0 category Food notes pizza
+2025-01-28 11:28:54,869 - db_helper - INFO - insert expenses for date 2024-08-31 amount 1000.0 category Shopping notes shirts
+2025-01-28 16:38:37,402 - db_helper - INFO - fetched expenses for date 2024-08-01
+2025-01-28 16:53:06,007 - db_helper - INFO - fetched expenses summary for date 2024-08-01 to 2024-08-03
+2025-01-28 17:15:26,692 - db_helper - INFO - fetched expenses for date 2024-08-01
+2025-01-28 17:16:29,851 - db_helper - INFO - fetched expenses for date 2024-08-01
+2025-01-28 17:16:35,512 - db_helper - INFO - fetched expenses for date 2024-08-01
+2025-01-28 17:16:37,263 - db_helper - INFO - fetched expenses for date 2024-08-01
+2025-01-28 17:16:40,491 - db_helper - INFO - fetched expenses for date 2024-08-01
+2025-01-28 17:16:42,631 - db_helper - INFO - fetched expenses summary for date 2024-08-02 to 2024-08-06
+2025-01-28 17:16:49,288 - db_helper - INFO - fetched expenses for date 2024-08-01
+2025-01-28 17:16:51,406 - db_helper - INFO - fetched expenses summary for date 2024-08-02 to 2024-08-06
+2025-01-28 17:16:55,402 - db_helper - INFO - fetched expenses for date 2024-08-01
+2025-01-28 17:16:56,458 - db_helper - INFO - fetched expenses for date 2024-08-01
+2025-01-28 17:16:58,563 - db_helper - INFO - fetched expenses summary for date 2024-08-02 to 2024-08-03
+2025-01-28 17:19:25,766 - db_helper - INFO - fetched expenses for date 2024-08-01
+2025-01-28 17:19:28,560 - db_helper - INFO - fetched expenses for date 2024-08-01
+2025-01-28 17:19:30,713 - db_helper - INFO - fetched expenses summary for date 2024-08-02 to 2024-08-02
+2025-01-28 17:22:09,497 - db_helper - INFO - fetched expenses for date 2024-08-01
+2025-01-28 17:22:13,448 - db_helper - INFO - fetched expenses for date 2024-08-01
+2025-01-28 17:22:15,552 - db_helper - INFO - fetched expenses summary for date 2024-08-02 to 2024-08-02
+2025-01-28 17:22:49,724 - db_helper - INFO - fetched expenses for date 2024-08-01
+2025-01-28 17:22:52,686 - db_helper - INFO - fetched expenses for date 2024-08-01
+2025-01-28 17:22:54,776 - db_helper - INFO - fetched expenses summary for date 2024-08-02 to 2024-08-02
+2025-01-28 17:28:44,980 - db_helper - INFO - fetched expenses for date 2024-08-01
+2025-01-28 17:28:51,807 - db_helper - INFO - fetched expenses for date 2024-08-01
+2025-01-28 17:29:00,049 - db_helper - INFO - fetched expenses for date 2024-08-01
+2025-01-28 17:29:01,008 - db_helper - INFO - fetched expenses for date 2024-08-01
+2025-01-28 17:29:03,116 - db_helper - INFO - fetched expenses summary for date 2024-08-01 to 2024-08-02
+2025-01-28 17:29:24,513 - db_helper - INFO - fetched expenses for date 2024-08-07
+2025-01-28 18:41:05,074 - db_helper - INFO - fetched expenses for date 2024-08-01
+2025-01-28 18:44:15,790 - db_helper - INFO - fetched expenses for date 2024-08-01
+2025-01-28 18:47:47,762 - db_helper - INFO - fetched expenses for date 2024-08-01
+2025-01-28 18:47:49,865 - db_helper - INFO - fetched expenses summary for date 2024-08-01 to 2024-08-05
+2025-01-28 18:55:04,943 - db_helper - INFO - fetched expenses for date 2024-08-01
+2025-01-28 18:57:16,391 - db_helper - INFO - fetched expenses for date 2024-08-01
+2025-01-28 18:57:41,674 - db_helper - INFO - fetched expenses for date 2024-08-01
+2025-01-28 18:57:53,252 - db_helper - INFO - fetched expenses for date 2024-08-01
+2025-01-28 18:57:54,168 - db_helper - INFO - fetched expenses for date 2024-08-01
+2025-01-28 18:57:56,241 - db_helper - INFO - fetched expenses summary for date 2024-08-01 to 2024-08-02
+2025-01-28 19:01:24,393 - db_helper - INFO - fetched expenses for date 2024-08-01
+2025-01-28 19:01:27,924 - db_helper - INFO - fetched expenses for date 2024-08-01
+2025-01-28 19:03:35,150 - db_helper - INFO - fetched expenses summary for date 2024-08-01 to 2024-08-03
+2025-01-28 19:07:13,842 - db_helper - INFO - fetched expenses for date 2024-08-01
+2025-01-28 19:07:18,404 - db_helper - INFO - fetched expenses for date 2024-08-01
+2025-01-28 19:07:46,218 - db_helper - INFO - fetched expenses summary for date 2024-08-01 to 2024-08-03
+2025-01-28 19:07:55,734 - db_helper - INFO - fetched expenses summary for date 2024-08-01 to 2024-08-02
+2025-01-28 19:11:44,267 - db_helper - INFO - fetched expenses summary for date 2024-08-01 to 2024-08-02
+2025-01-28 19:13:17,076 - db_helper - INFO - fetched expenses for date 2024-08-01
+2025-01-28 19:13:21,710 - db_helper - INFO - fetched expenses for date 2024-08-01
+2025-01-28 19:15:37,683 - db_helper - INFO - fetched expenses for date 2024-08-01
+2025-01-28 19:15:41,110 - db_helper - INFO - fetched expenses for date 2024-08-01
+2025-01-28 19:15:58,261 - db_helper - INFO - fetched expenses for date 2024-08-01
+2025-01-28 19:16:01,560 - db_helper - INFO - fetched expenses for date 2024-08-01
+2025-01-28 19:19:58,597 - db_helper - INFO - fetched expenses for date 2024-08-01
+2025-01-28 19:20:03,474 - db_helper - INFO - fetched expenses for date 2024-08-01
+2025-01-28 19:20:05,546 - db_helper - INFO - fetched expenses summary for date 2024-08-01 to 2024-08-05
+2025-01-28 19:24:42,938 - db_helper - INFO - fetched expenses summary for date 2024-08-01 to 2024-08-02
+2025-01-28 19:25:04,913 - db_helper - INFO - fetched expenses for date 2024-08-01
+2025-01-28 19:26:34,044 - db_helper - INFO - fetched expenses for date 2024-08-01
+2025-01-28 19:31:46,814 - db_helper - INFO - fetched expenses for date 2024-08-01
+2025-01-28 19:31:48,890 - db_helper - INFO - fetch_expense_summary_by_months
+2025-01-28 19:31:56,367 - db_helper - INFO - fetched expenses for date 2024-08-01
+2025-01-28 19:31:58,451 - db_helper - INFO - fetched expenses summary for date 2024-08-01 to 2024-08-05
+2025-01-28 19:32:00,507 - db_helper - INFO - fetch_expense_summary_by_months
